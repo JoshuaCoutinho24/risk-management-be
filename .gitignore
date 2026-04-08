@@ -190,7 +190,9 @@ cython_debug/
 
 # Ruff stuff:
 .ruff_cache/
-
+.next/
+node_modules/
+.pnp
 # PyPI configuration file
 .pypirc
 
@@ -205,3 +207,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ── RiskEngine runtime data (generated at runtime, not source) ─────────────
+risk-engine/fund_cache.json
+risk-engine/audit_log.json
+risk-engine/notes.json
+risk-engine/settings.json

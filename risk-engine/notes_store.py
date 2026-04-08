@@ -5,13 +5,14 @@ Persists to notes.json. Notes are keyed by person_id.
 """
 
 import json
+import os
 import uuid
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
-_BASE_DIR   = Path(__file__).parent
-_NOTES_FILE = _BASE_DIR / "notes.json"
+_DATA_DIR   = Path(os.getenv("DATA_DIR", str(Path(__file__).parent)))
+_NOTES_FILE = _DATA_DIR / "notes.json"
 
 # { person_id: [ {id, content, created_at, updated_at}, ... ] }
 _notes: dict[str, list[dict]] = {}

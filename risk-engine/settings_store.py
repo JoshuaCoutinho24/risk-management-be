@@ -11,7 +11,8 @@ import os
 from pathlib import Path
 from typing import Any
 
-_SETTINGS_FILE = Path(__file__).parent / "settings.json"
+_DATA_DIR      = Path(os.getenv("DATA_DIR", str(Path(__file__).parent)))
+_SETTINGS_FILE = _DATA_DIR / "settings.json"
 
 # ── Default interview prompt ───────────────────────────────────────────────────
 

@@ -21,8 +21,9 @@ import urllib.error
 # ── Paths ─────────────────────────────────────────────────────────────────────
 
 _BASE_DIR    = Path(__file__).parent
-_CATALOG     = _BASE_DIR / "fund_catalog.json"
-_CACHE_FILE  = _BASE_DIR / "fund_cache.json"
+_DATA_DIR    = Path(os.getenv("DATA_DIR", str(_BASE_DIR)))
+_CATALOG     = _BASE_DIR / "fund_catalog.json"   # source file — ships with the app
+_CACHE_FILE  = _DATA_DIR / "fund_cache.json"     # runtime cache — lives in DATA_DIR
 
 
 # ── Network helpers ───────────────────────────────────────────────────────────
