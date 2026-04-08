@@ -46,9 +46,9 @@ _driver: Optional[Driver] = None
 def get_driver() -> Driver:
     global _driver
     if _driver is None:
-        uri      = os.environ.get("NEO4J_URI",      "bolt://localhost:7687")
-        user     = os.environ.get("NEO4J_USER",     "neo4j")
-        password = os.environ.get("NEO4J_PASSWORD", "password")
+        uri      = os.environ.get("NEO4J_URI",      "neo4j+s://b7b24d8f.databases.neo4j.io")
+        user     = os.environ.get("NEO4J_USER",     "NEO4J_USER")
+        password = os.environ.get("NEO4J_PASSWORD", "nrGPFvSH0O0ASiMlBXoFVUWUSJNtDuoEWZmP-LRLUKo")
         _driver  = GraphDatabase.driver(uri, auth=(user, password))
     return _driver
 
