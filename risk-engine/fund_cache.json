@@ -1,0 +1,920 @@
+[
+  {
+    "scheme_code": 119551,
+    "name": "SBI Bluechip Fund",
+    "category": "Large Cap",
+    "metrics": {
+      "annual_volatility": 8.97,
+      "max_drawdown": 36.65,
+      "cagr_1y": -1.42,
+      "cagr_3y": -2.08,
+      "cagr_5y": -7.45,
+      "sharpe_ratio": -0.883,
+      "risk_score": 22,
+      "nav_latest": 103.9918,
+      "nav_date": "07-04-2026",
+      "data_points": 3200
+    },
+    "cached_at": "2026-04-08T04:20:19.653282+00:00"
+  },
+  {
+    "scheme_code": 118834,
+    "name": "Mirae Asset Large Cap Fund",
+    "category": "Large Cap",
+    "metrics": {
+      "annual_volatility": 16.3,
+      "max_drawdown": 36.87,
+      "cagr_1y": 11.42,
+      "cagr_3y": 15.71,
+      "cagr_5y": 13.24,
+      "sharpe_ratio": 0.302,
+      "risk_score": 41,
+      "nav_latest": 159.821,
+      "nav_date": "07-04-2026",
+      "data_points": 3262
+    },
+    "cached_at": "2026-04-08T04:20:19.933875+00:00"
+  },
+  {
+    "scheme_code": 120503,
+    "name": "Axis Bluechip Fund",
+    "category": "Large Cap",
+    "metrics": {
+      "annual_volatility": 15.37,
+      "max_drawdown": 100.0,
+      "cagr_1y": 3.08,
+      "cagr_3y": 12.88,
+      "cagr_5y": 8.07,
+      "sharpe_ratio": -0.223,
+      "risk_score": 38,
+      "nav_latest": 99.3876,
+      "nav_date": "07-04-2026",
+      "data_points": 3270
+    },
+    "cached_at": "2026-04-08T04:20:20.470277+00:00"
+  },
+  {
+    "scheme_code": 118989,
+    "name": "Nippon India Large Cap Fund",
+    "category": "Large Cap",
+    "metrics": {
+      "annual_volatility": 15.8,
+      "max_drawdown": 39.51,
+      "cagr_1y": 14.58,
+      "cagr_3y": 23.12,
+      "cagr_5y": 20.74,
+      "sharpe_ratio": 0.511,
+      "risk_score": 40,
+      "nav_latest": 205.14,
+      "nav_date": "07-04-2026",
+      "data_points": 3263
+    },
+    "cached_at": "2026-04-08T04:20:20.959816+00:00"
+  },
+  {
+    "scheme_code": 119270,
+    "name": "Kotak Bluechip Fund",
+    "category": "Large Cap",
+    "metrics": {
+      "annual_volatility": 11.87,
+      "max_drawdown": 8.32,
+      "cagr_1y": 22.18,
+      "cagr_3y": null,
+      "cagr_5y": null,
+      "sharpe_ratio": 1.321,
+      "risk_score": 30,
+      "nav_latest": 18.0306,
+      "nav_date": "20-03-2015",
+      "data_points": 438
+    },
+    "cached_at": "2026-04-08T04:20:21.108663+00:00"
+  },
+  {
+    "scheme_code": 120597,
+    "name": "UTI Nifty 50 Index Fund",
+    "category": "Index",
+    "metrics": {
+      "annual_volatility": 16.61,
+      "max_drawdown": 45.52,
+      "cagr_1y": 3.88,
+      "cagr_3y": 13.26,
+      "cagr_5y": 12.62,
+      "sharpe_ratio": -0.158,
+      "risk_score": 42,
+      "nav_latest": 50.05,
+      "nav_date": "07-04-2026",
+      "data_points": 3262
+    },
+    "cached_at": "2026-04-08T04:20:21.634169+00:00"
+  },
+  {
+    "scheme_code": 120828,
+    "name": "SBI Nifty Index Fund",
+    "category": "Index",
+    "metrics": {
+      "annual_volatility": 20.18,
+      "max_drawdown": 51.6,
+      "cagr_1y": 5.96,
+      "cagr_3y": 18.61,
+      "cagr_5y": 22.43,
+      "sharpe_ratio": -0.027,
+      "risk_score": 50,
+      "nav_latest": 250.8004,
+      "nav_date": "07-04-2026",
+      "data_points": 3261
+    },
+    "cached_at": "2026-04-08T04:20:21.916381+00:00"
+  },
+  {
+    "scheme_code": 135781,
+    "name": "HDFC Index Fund Nifty 50 Plan",
+    "category": "Index",
+    "metrics": {
+      "annual_volatility": 16.47,
+      "max_drawdown": 37.81,
+      "cagr_1y": 9.69,
+      "cagr_3y": 15.26,
+      "cagr_5y": 13.32,
+      "sharpe_ratio": 0.194,
+      "risk_score": 41,
+      "nav_latest": 51.826,
+      "nav_date": "07-04-2026",
+      "data_points": 2530
+    },
+    "cached_at": "2026-04-08T04:20:22.151108+00:00"
+  },
+  {
+    "scheme_code": 120716,
+    "name": "Nippon India Index Fund Nifty 50 Plan",
+    "category": "Index",
+    "metrics": {
+      "annual_volatility": 16.22,
+      "max_drawdown": 38.42,
+      "cagr_1y": 5.31,
+      "cagr_3y": 10.55,
+      "cagr_5y": 10.33,
+      "sharpe_ratio": -0.073,
+      "risk_score": 41,
+      "nav_latest": 161.6467,
+      "nav_date": "07-04-2026",
+      "data_points": 3262
+    },
+    "cached_at": "2026-04-08T04:20:22.439495+00:00"
+  },
+  {
+    "scheme_code": 131444,
+    "name": "Axis Nifty 100 Index Fund",
+    "category": "Index",
+    "metrics": {
+      "annual_volatility": 2.1,
+      "max_drawdown": 4.11,
+      "cagr_1y": 1.18,
+      "cagr_3y": 1.81,
+      "cagr_5y": 1.32,
+      "sharpe_ratio": -2.533,
+      "risk_score": 5,
+      "nav_latest": 1163.2819,
+      "nav_date": "07-04-2026",
+      "data_points": 2664
+    },
+    "cached_at": "2026-04-08T04:20:22.683248+00:00"
+  },
+  {
+    "scheme_code": 145552,
+    "name": "Motilal Oswal Nifty 500 Index Fund",
+    "category": "Index",
+    "metrics": {
+      "annual_volatility": 22.62,
+      "max_drawdown": 30.35,
+      "cagr_1y": 49.81,
+      "cagr_3y": 33.01,
+      "cagr_5y": 19.31,
+      "sharpe_ratio": 1.915,
+      "risk_score": 57,
+      "nav_latest": 51.7924,
+      "nav_date": "07-04-2026",
+      "data_points": 1809
+    },
+    "cached_at": "2026-04-08T04:20:22.923315+00:00"
+  },
+  {
+    "scheme_code": 148111,
+    "name": "Navi Nifty 50 Index Fund",
+    "category": "Index",
+    "metrics": {
+      "annual_volatility": 101.61,
+      "max_drawdown": 24.3,
+      "cagr_1y": 334.18,
+      "cagr_3y": null,
+      "cagr_5y": null,
+      "sharpe_ratio": 3.225,
+      "risk_score": 100,
+      "nav_latest": 3.1928,
+      "nav_date": "27-01-2022",
+      "data_points": 471
+    },
+    "cached_at": "2026-04-08T04:20:23.074857+00:00"
+  },
+  {
+    "scheme_code": 122639,
+    "name": "Parag Parikh Flexi Cap Fund",
+    "category": "Flexi Cap",
+    "metrics": {
+      "annual_volatility": 12.01,
+      "max_drawdown": 31.2,
+      "cagr_1y": 4.61,
+      "cagr_3y": 17.58,
+      "cagr_5y": 16.45,
+      "sharpe_ratio": -0.157,
+      "risk_score": 30,
+      "nav_latest": 87.4905,
+      "nav_date": "06-04-2026",
+      "data_points": 3161
+    },
+    "cached_at": "2026-04-08T04:20:23.366434+00:00"
+  },
+  {
+    "scheme_code": 120594,
+    "name": "DSP Flexi Cap Fund",
+    "category": "Flexi Cap",
+    "metrics": {
+      "annual_volatility": 17.95,
+      "max_drawdown": 35.09,
+      "cagr_1y": -3.51,
+      "cagr_3y": 9.18,
+      "cagr_5y": 9.59,
+      "sharpe_ratio": -0.558,
+      "risk_score": 45,
+      "nav_latest": 188.38,
+      "nav_date": "06-04-2026",
+      "data_points": 3260
+    },
+    "cached_at": "2026-04-08T04:20:24.278103+00:00"
+  },
+  {
+    "scheme_code": 130503,
+    "name": "Kotak Multicap Fund",
+    "category": "Multi Cap",
+    "metrics": {
+      "annual_volatility": 16.64,
+      "max_drawdown": 48.26,
+      "cagr_1y": 8.92,
+      "cagr_3y": 16.13,
+      "cagr_5y": 19.07,
+      "sharpe_ratio": 0.145,
+      "risk_score": 42,
+      "nav_latest": 141.691,
+      "nav_date": "07-04-2026",
+      "data_points": 2894
+    },
+    "cached_at": "2026-04-08T04:20:24.782788+00:00"
+  },
+  {
+    "scheme_code": 120590,
+    "name": "ICICI Prudential Multicap Fund",
+    "category": "Multi Cap",
+    "metrics": {
+      "annual_volatility": 4.44,
+      "max_drawdown": 12.31,
+      "cagr_1y": 2.53,
+      "cagr_3y": 7.05,
+      "cagr_5y": 6.39,
+      "sharpe_ratio": -0.894,
+      "risk_score": 11,
+      "nav_latest": 111.8919,
+      "nav_date": "07-04-2026",
+      "data_points": 3199
+    },
+    "cached_at": "2026-04-08T04:20:25.282263+00:00"
+  },
+  {
+    "scheme_code": 148469,
+    "name": "HDFC Multi Cap Fund",
+    "category": "Multi Cap",
+    "metrics": {
+      "annual_volatility": 0.95,
+      "max_drawdown": 0.26,
+      "cagr_1y": 5.32,
+      "cagr_3y": 5.73,
+      "cagr_5y": 4.82,
+      "sharpe_ratio": -1.242,
+      "risk_score": 2,
+      "nav_latest": 12.8496,
+      "nav_date": "07-04-2026",
+      "data_points": 1384
+    },
+    "cached_at": "2026-04-08T04:20:25.500027+00:00"
+  },
+  {
+    "scheme_code": 120844,
+    "name": "Axis Midcap Fund",
+    "category": "Mid Cap",
+    "metrics": {
+      "annual_volatility": 8.13,
+      "max_drawdown": 8.64,
+      "cagr_1y": 3.97,
+      "cagr_3y": 6.07,
+      "cagr_5y": 2.97,
+      "sharpe_ratio": -0.311,
+      "risk_score": 20,
+      "nav_latest": 17.3363,
+      "nav_date": "12-02-2021",
+      "data_points": 1989
+    },
+    "cached_at": "2026-04-08T04:20:25.738549+00:00"
+  },
+  {
+    "scheme_code": 119386,
+    "name": "Kotak Emerging Equity Fund",
+    "category": "Mid Cap",
+    "metrics": {
+      "annual_volatility": 1.74,
+      "max_drawdown": 1.59,
+      "cagr_1y": 0.18,
+      "cagr_3y": null,
+      "cagr_5y": null,
+      "sharpe_ratio": -3.632,
+      "risk_score": 4,
+      "nav_latest": 1020.1486,
+      "nav_date": "28-01-2015",
+      "data_points": 493
+    },
+    "cached_at": "2026-04-08T04:20:25.904903+00:00"
+  },
+  {
+    "scheme_code": 120841,
+    "name": "DSP Midcap Fund",
+    "category": "Mid Cap",
+    "metrics": {
+      "annual_volatility": 15.49,
+      "max_drawdown": 33.43,
+      "cagr_1y": 0.8,
+      "cagr_3y": 15.63,
+      "cagr_5y": 18.72,
+      "sharpe_ratio": -0.368,
+      "risk_score": 39,
+      "nav_latest": 217.9604,
+      "nav_date": "07-04-2026",
+      "data_points": 3265
+    },
+    "cached_at": "2026-04-08T04:20:26.198239+00:00"
+  },
+  {
+    "scheme_code": 120816,
+    "name": "Nippon India Growth Fund",
+    "category": "Mid Cap",
+    "metrics": {
+      "annual_volatility": 14.04,
+      "max_drawdown": 15.47,
+      "cagr_1y": -7.42,
+      "cagr_3y": 9.36,
+      "cagr_5y": null,
+      "sharpe_ratio": -0.991,
+      "risk_score": 35,
+      "nav_latest": 12.9538,
+      "nav_date": "04-04-2016",
+      "data_points": 762
+    },
+    "cached_at": "2026-04-08T04:20:26.497602+00:00"
+  },
+  {
+    "scheme_code": 146648,
+    "name": "Mirae Asset Midcap Fund",
+    "category": "Mid Cap",
+    "metrics": {
+      "annual_volatility": 4.23,
+      "max_drawdown": 5.87,
+      "cagr_1y": -2.78,
+      "cagr_3y": -0.36,
+      "cagr_5y": null,
+      "sharpe_ratio": -2.194,
+      "risk_score": 11,
+      "nav_latest": 10.0,
+      "nav_date": "11-04-2022",
+      "data_points": 745
+    },
+    "cached_at": "2026-04-08T04:20:26.885982+00:00"
+  },
+  {
+    "scheme_code": 118778,
+    "name": "Nippon India Small Cap Fund",
+    "category": "Small Cap",
+    "metrics": {
+      "annual_volatility": 17.52,
+      "max_drawdown": 48.58,
+      "cagr_1y": 7.49,
+      "cagr_3y": 19.05,
+      "cagr_5y": 21.33,
+      "sharpe_ratio": 0.057,
+      "risk_score": 44,
+      "nav_latest": 172.0877,
+      "nav_date": "07-04-2026",
+      "data_points": 3261
+    },
+    "cached_at": "2026-04-08T04:20:27.172900+00:00"
+  },
+  {
+    "scheme_code": 120843,
+    "name": "Axis Small Cap Fund",
+    "category": "Small Cap",
+    "metrics": {
+      "annual_volatility": 18.24,
+      "max_drawdown": 41.28,
+      "cagr_1y": 6.59,
+      "cagr_3y": 16.52,
+      "cagr_5y": 18.49,
+      "sharpe_ratio": 0.005,
+      "risk_score": 46,
+      "nav_latest": 102.2122,
+      "nav_date": "07-04-2026",
+      "data_points": 3265
+    },
+    "cached_at": "2026-04-08T04:20:27.458814+00:00"
+  },
+  {
+    "scheme_code": 120846,
+    "name": "HDFC Small Cap Fund",
+    "category": "Small Cap",
+    "metrics": {
+      "annual_volatility": 18.21,
+      "max_drawdown": 43.85,
+      "cagr_1y": 11.4,
+      "cagr_3y": 16.07,
+      "cagr_5y": 17.54,
+      "sharpe_ratio": 0.269,
+      "risk_score": 46,
+      "nav_latest": 51.9035,
+      "nav_date": "07-04-2026",
+      "data_points": 3265
+    },
+    "cached_at": "2026-04-08T04:20:28.211545+00:00"
+  },
+  {
+    "scheme_code": 145547,
+    "name": "Canara Robeco Small Cap Fund",
+    "category": "Small Cap",
+    "metrics": {
+      "annual_volatility": 77.18,
+      "max_drawdown": 0.0,
+      "cagr_1y": -0.0,
+      "cagr_3y": -0.0,
+      "cagr_5y": 58.5,
+      "sharpe_ratio": -0.084,
+      "risk_score": 100,
+      "nav_latest": 1000.005,
+      "nav_date": "07-04-2026",
+      "data_points": 2244
+    },
+    "cached_at": "2026-04-08T04:20:28.714953+00:00"
+  },
+  {
+    "scheme_code": 120505,
+    "name": "ICICI Prudential Balanced Advantage Fund",
+    "category": "Hybrid",
+    "metrics": {
+      "annual_volatility": 15.06,
+      "max_drawdown": 100.0,
+      "cagr_1y": 12.39,
+      "cagr_3y": 18.62,
+      "cagr_5y": 15.27,
+      "sharpe_ratio": 0.391,
+      "risk_score": 38,
+      "nav_latest": 123.86,
+      "nav_date": "07-04-2026",
+      "data_points": 3270
+    },
+    "cached_at": "2026-04-08T04:20:29.020671+00:00"
+  },
+  {
+    "scheme_code": 120574,
+    "name": "ICICI Prudential Equity and Debt Fund",
+    "category": "Hybrid",
+    "metrics": {
+      "annual_volatility": 5.38,
+      "max_drawdown": 8.74,
+      "cagr_1y": -1.6,
+      "cagr_3y": 0.07,
+      "cagr_5y": 1.51,
+      "sharpe_ratio": -1.506,
+      "risk_score": 13,
+      "nav_latest": 13.0941,
+      "nav_date": "01-06-2018",
+      "data_points": 1301
+    },
+    "cached_at": "2026-04-08T04:20:30.111727+00:00"
+  },
+  {
+    "scheme_code": 119270,
+    "name": "Canara Robeco Equity Hybrid Fund",
+    "category": "Hybrid",
+    "metrics": {
+      "annual_volatility": 11.87,
+      "max_drawdown": 8.32,
+      "cagr_1y": 22.18,
+      "cagr_3y": null,
+      "cagr_5y": null,
+      "sharpe_ratio": 1.321,
+      "risk_score": 30,
+      "nav_latest": 18.0306,
+      "nav_date": "20-03-2015",
+      "data_points": 438
+    },
+    "cached_at": "2026-04-08T04:20:30.259858+00:00"
+  },
+  {
+    "scheme_code": 119206,
+    "name": "HDFC Liquid Fund",
+    "category": "Liquid",
+    "metrics": {
+      "annual_volatility": 5.79,
+      "max_drawdown": 14.97,
+      "cagr_1y": 0.62,
+      "cagr_3y": 0.67,
+      "cagr_5y": 0.61,
+      "sharpe_ratio": -1.016,
+      "risk_score": 14,
+      "nav_latest": 1132.2251,
+      "nav_date": "07-04-2026",
+      "data_points": 3207
+    },
+    "cached_at": "2026-04-08T04:20:30.619394+00:00"
+  },
+  {
+    "scheme_code": 120600,
+    "name": "ICICI Prudential Liquid Fund",
+    "category": "Liquid",
+    "metrics": {
+      "annual_volatility": 5.09,
+      "max_drawdown": 12.63,
+      "cagr_1y": 4.4,
+      "cagr_3y": 7.58,
+      "cagr_5y": 5.35,
+      "sharpe_ratio": -0.413,
+      "risk_score": 13,
+      "nav_latest": 26.5972,
+      "nav_date": "07-04-2026",
+      "data_points": 3024
+    },
+    "cached_at": "2026-04-08T04:20:31.164793+00:00"
+  },
+  {
+    "scheme_code": 120477,
+    "name": "Axis Liquid Fund",
+    "category": "Liquid",
+    "metrics": {
+      "annual_volatility": 6.77,
+      "max_drawdown": 17.19,
+      "cagr_1y": 0.5,
+      "cagr_3y": 4.35,
+      "cagr_5y": 3.57,
+      "sharpe_ratio": -0.886,
+      "risk_score": 17,
+      "nav_latest": 15.9705,
+      "nav_date": "07-04-2026",
+      "data_points": 2955
+    },
+    "cached_at": "2026-04-08T04:20:31.418063+00:00"
+  },
+  {
+    "scheme_code": 119386,
+    "name": "Kotak Liquid Fund",
+    "category": "Liquid",
+    "metrics": {
+      "annual_volatility": 1.74,
+      "max_drawdown": 1.59,
+      "cagr_1y": 0.18,
+      "cagr_3y": null,
+      "cagr_5y": null,
+      "sharpe_ratio": -3.632,
+      "risk_score": 4,
+      "nav_latest": 1020.1486,
+      "nav_date": "28-01-2015",
+      "data_points": 493
+    },
+    "cached_at": "2026-04-08T04:20:31.588876+00:00"
+  },
+  {
+    "scheme_code": 119820,
+    "name": "Mirae Asset Cash Management Fund",
+    "category": "Liquid",
+    "metrics": {
+      "annual_volatility": 1.51,
+      "max_drawdown": 1.76,
+      "cagr_1y": 6.45,
+      "cagr_3y": 7.34,
+      "cagr_5y": 6.35,
+      "sharpe_ratio": -0.033,
+      "risk_score": 4,
+      "nav_latest": 18.4563,
+      "nav_date": "07-04-2026",
+      "data_points": 3206
+    },
+    "cached_at": "2026-04-08T04:20:32.005331+00:00"
+  },
+  {
+    "scheme_code": 120477,
+    "name": "HDFC Short Term Debt Fund",
+    "category": "Short Duration",
+    "metrics": {
+      "annual_volatility": 6.77,
+      "max_drawdown": 17.19,
+      "cagr_1y": 0.5,
+      "cagr_3y": 4.35,
+      "cagr_5y": 3.57,
+      "sharpe_ratio": -0.886,
+      "risk_score": 17,
+      "nav_latest": 15.9705,
+      "nav_date": "07-04-2026",
+      "data_points": 2955
+    },
+    "cached_at": "2026-04-08T04:20:32.506923+00:00"
+  },
+  {
+    "scheme_code": 120600,
+    "name": "SBI Short Term Debt Fund",
+    "category": "Short Duration",
+    "metrics": {
+      "annual_volatility": 5.09,
+      "max_drawdown": 12.63,
+      "cagr_1y": 4.4,
+      "cagr_3y": 7.58,
+      "cagr_5y": 5.35,
+      "sharpe_ratio": -0.413,
+      "risk_score": 13,
+      "nav_latest": 26.5972,
+      "nav_date": "07-04-2026",
+      "data_points": 3024
+    },
+    "cached_at": "2026-04-08T04:20:32.784896+00:00"
+  },
+  {
+    "scheme_code": 119820,
+    "name": "Axis Short Term Fund",
+    "category": "Short Duration",
+    "metrics": {
+      "annual_volatility": 1.51,
+      "max_drawdown": 1.76,
+      "cagr_1y": 6.45,
+      "cagr_3y": 7.34,
+      "cagr_5y": 6.35,
+      "sharpe_ratio": -0.033,
+      "risk_score": 4,
+      "nav_latest": 18.4563,
+      "nav_date": "07-04-2026",
+      "data_points": 3206
+    },
+    "cached_at": "2026-04-08T04:20:33.101670+00:00"
+  },
+  {
+    "scheme_code": 118569,
+    "name": "Kotak Bond Short Term Fund",
+    "category": "Short Duration",
+    "metrics": {
+      "annual_volatility": 2.31,
+      "max_drawdown": 7.36,
+      "cagr_1y": 7.57,
+      "cagr_3y": 7.86,
+      "cagr_5y": 6.57,
+      "sharpe_ratio": 0.463,
+      "risk_score": 6,
+      "nav_latest": 112.4927,
+      "nav_date": "07-04-2026",
+      "data_points": 3199
+    },
+    "cached_at": "2026-04-08T04:20:33.393137+00:00"
+  },
+  {
+    "scheme_code": 119386,
+    "name": "DSP Short Term Fund",
+    "category": "Short Duration",
+    "metrics": {
+      "annual_volatility": 1.74,
+      "max_drawdown": 1.59,
+      "cagr_1y": 0.18,
+      "cagr_3y": null,
+      "cagr_5y": null,
+      "sharpe_ratio": -3.632,
+      "risk_score": 4,
+      "nav_latest": 1020.1486,
+      "nav_date": "28-01-2015",
+      "data_points": 493
+    },
+    "cached_at": "2026-04-08T04:20:33.559688+00:00"
+  },
+  {
+    "scheme_code": 118569,
+    "name": "ICICI Prudential Long Term Bond Fund",
+    "category": "Long Duration",
+    "metrics": {
+      "annual_volatility": 2.31,
+      "max_drawdown": 7.36,
+      "cagr_1y": 7.57,
+      "cagr_3y": 7.86,
+      "cagr_5y": 6.57,
+      "sharpe_ratio": 0.463,
+      "risk_score": 6,
+      "nav_latest": 112.4927,
+      "nav_date": "07-04-2026",
+      "data_points": 3199
+    },
+    "cached_at": "2026-04-08T04:20:33.857788+00:00"
+  },
+  {
+    "scheme_code": 119820,
+    "name": "SBI Magnum Long Duration Fund",
+    "category": "Long Duration",
+    "metrics": {
+      "annual_volatility": 1.51,
+      "max_drawdown": 1.76,
+      "cagr_1y": 6.45,
+      "cagr_3y": 7.34,
+      "cagr_5y": 6.35,
+      "sharpe_ratio": -0.033,
+      "risk_score": 4,
+      "nav_latest": 18.4563,
+      "nav_date": "07-04-2026",
+      "data_points": 3206
+    },
+    "cached_at": "2026-04-08T04:20:34.138645+00:00"
+  },
+  {
+    "scheme_code": 135798,
+    "name": "Nippon India Gold Savings Fund",
+    "category": "Gold",
+    "metrics": {
+      "annual_volatility": 18.69,
+      "max_drawdown": 33.27,
+      "cagr_1y": -1.16,
+      "cagr_3y": 9.41,
+      "cagr_5y": 9.53,
+      "sharpe_ratio": -0.41,
+      "risk_score": 47,
+      "nav_latest": 46.6687,
+      "nav_date": "07-04-2026",
+      "data_points": 2529
+    },
+    "cached_at": "2026-04-08T04:20:34.506478+00:00"
+  },
+  {
+    "scheme_code": 143534,
+    "name": "SBI Gold Fund",
+    "category": "Gold",
+    "metrics": {
+      "annual_volatility": 12.52,
+      "max_drawdown": 28.51,
+      "cagr_1y": -0.94,
+      "cagr_3y": 12.17,
+      "cagr_5y": 9.65,
+      "sharpe_ratio": -0.594,
+      "risk_score": 31,
+      "nav_latest": 20.1454,
+      "nav_date": "07-04-2026",
+      "data_points": 1908
+    },
+    "cached_at": "2026-04-08T04:20:34.734277+00:00"
+  },
+  {
+    "scheme_code": 120680,
+    "name": "ICICI Prudential Regular Gold Savings Fund",
+    "category": "Gold",
+    "metrics": {
+      "annual_volatility": 10.0,
+      "max_drawdown": 26.35,
+      "cagr_1y": 5.19,
+      "cagr_3y": 9.44,
+      "cagr_5y": 6.88,
+      "sharpe_ratio": -0.131,
+      "risk_score": 25,
+      "nav_latest": 102.2695,
+      "nav_date": "06-04-2026",
+      "data_points": 3204
+    },
+    "cached_at": "2026-04-08T04:20:35.235993+00:00"
+  },
+  {
+    "scheme_code": 120477,
+    "name": "Kotak Gold Fund",
+    "category": "Gold",
+    "metrics": {
+      "annual_volatility": 6.77,
+      "max_drawdown": 17.19,
+      "cagr_1y": 0.5,
+      "cagr_3y": 4.35,
+      "cagr_5y": 3.57,
+      "sharpe_ratio": -0.886,
+      "risk_score": 17,
+      "nav_latest": 15.9705,
+      "nav_date": "07-04-2026",
+      "data_points": 2955
+    },
+    "cached_at": "2026-04-08T04:20:35.522243+00:00"
+  },
+  {
+    "scheme_code": 148469,
+    "name": "Axis Gold Fund",
+    "category": "Gold",
+    "metrics": {
+      "annual_volatility": 0.95,
+      "max_drawdown": 0.26,
+      "cagr_1y": 5.32,
+      "cagr_3y": 5.73,
+      "cagr_5y": 4.82,
+      "sharpe_ratio": -1.242,
+      "risk_score": 2,
+      "nav_latest": 12.8496,
+      "nav_date": "07-04-2026",
+      "data_points": 1384
+    },
+    "cached_at": "2026-04-08T04:20:35.745248+00:00"
+  },
+  {
+    "scheme_code": 118825,
+    "name": "Mirae Asset Tax Saver Fund",
+    "category": "ELSS",
+    "metrics": {
+      "annual_volatility": 15.92,
+      "max_drawdown": 37.44,
+      "cagr_1y": 5.85,
+      "cagr_3y": 11.13,
+      "cagr_5y": 10.54,
+      "sharpe_ratio": -0.041,
+      "risk_score": 40,
+      "nav_latest": 117.622,
+      "nav_date": "07-04-2026",
+      "data_points": 3262
+    },
+    "cached_at": "2026-04-08T04:20:36.039115+00:00"
+  },
+  {
+    "scheme_code": 120604,
+    "name": "ICICI Prudential Long Term Equity Fund",
+    "category": "ELSS",
+    "metrics": {
+      "annual_volatility": 3.37,
+      "max_drawdown": 5.42,
+      "cagr_1y": -1.07,
+      "cagr_3y": -0.42,
+      "cagr_5y": -0.24,
+      "sharpe_ratio": -2.246,
+      "risk_score": 8,
+      "nav_latest": 10.4514,
+      "nav_date": "07-04-2026",
+      "data_points": 2930
+    },
+    "cached_at": "2026-04-08T04:20:36.540999+00:00"
+  },
+  {
+    "scheme_code": 119270,
+    "name": "HDFC TaxSaver Fund",
+    "category": "ELSS",
+    "metrics": {
+      "annual_volatility": 11.87,
+      "max_drawdown": 8.32,
+      "cagr_1y": 22.18,
+      "cagr_3y": null,
+      "cagr_5y": null,
+      "sharpe_ratio": 1.321,
+      "risk_score": 30,
+      "nav_latest": 18.0306,
+      "nav_date": "20-03-2015",
+      "data_points": 438
+    },
+    "cached_at": "2026-04-08T04:20:37.114325+00:00"
+  },
+  {
+    "scheme_code": 119062,
+    "name": "Kotak Tax Saver Fund",
+    "category": "ELSS",
+    "metrics": {
+      "annual_volatility": 14.91,
+      "max_drawdown": 33.56,
+      "cagr_1y": 1.57,
+      "cagr_3y": 8.94,
+      "cagr_5y": 10.62,
+      "sharpe_ratio": -0.331,
+      "risk_score": 37,
+      "nav_latest": 118.245,
+      "nav_date": "07-04-2026",
+      "data_points": 3263
+    },
+    "cached_at": "2026-04-08T04:20:37.416887+00:00"
+  },
+  {
+    "scheme_code": 148111,
+    "name": "Parag Parikh Tax Saver Fund",
+    "category": "ELSS",
+    "metrics": {
+      "annual_volatility": 101.61,
+      "max_drawdown": 24.3,
+      "cagr_1y": 334.18,
+      "cagr_3y": null,
+      "cagr_5y": null,
+      "sharpe_ratio": 3.225,
+      "risk_score": 100,
+      "nav_latest": 3.1928,
+      "nav_date": "27-01-2022",
+      "data_points": 471
+    },
+    "cached_at": "2026-04-08T04:20:37.827378+00:00"
+  }
+]

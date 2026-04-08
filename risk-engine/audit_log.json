@@ -1,0 +1,39 @@
+[
+  {
+    "id": "67b6129a-ff6a-4a00-961d-f6fa9c3c4c98",
+    "timestamp": "2026-04-08T05:03:34.204004+00:00",
+    "action": "ingest",
+    "person_id": "8a653a45-a6d0-4a7e-bd52-4228d202b25d",
+    "details": {
+      "archetypes": [
+        "bold_accumulator",
+        "steady_builder"
+      ]
+    },
+    "user": "advisor"
+  },
+  {
+    "id": "be494057-49c4-47d7-8e60-3269aba6c545",
+    "timestamp": "2026-04-08T04:47:14.814206+00:00",
+    "action": "simulate",
+    "person_id": "02521478-c917-4475-a943-748bb515d29e",
+    "details": {
+      "scenario": "covid_2020",
+      "sim_id": "43a11692-9903-4f5d-9b33-a1d652ef1614"
+    },
+    "user": "advisor"
+  },
+  {
+    "id": "482e4b3e-0cdc-499c-be49-6603718db260",
+    "timestamp": "2026-04-08T04:44:29.912007+00:00",
+    "action": "ingest",
+    "person_id": "02521478-c917-4475-a943-748bb515d29e",
+    "details": {
+      "archetypes": [
+        "bold_accumulator",
+        "income_seeker"
+      ]
+    },
+    "user": "advisor"
+  }
+]
